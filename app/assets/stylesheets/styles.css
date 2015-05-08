@@ -67,3 +67,15 @@ form{
   background: #83b5d8;
   color: #444;
 }
+
+p{
+  width: 350px;
+  font-size: 20px;
+  margin: auto;
+  padding: 10px 0;
+  color: #444;
+}
+
+p#notice{
+  color: #76a3da;
+}
